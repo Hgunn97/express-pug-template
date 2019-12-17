@@ -1,0 +1,24 @@
+{
+  "name": "express-pug-template",
+  "version": "1.0.0",
+  "description": "Express server set-up using pug as the template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hgunn97/express-pug-template.git"
+  },
+  "author": "Hannah Gunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hgunn97/express-pug-template/issues"
+  },
+  "homepage": "https://github.com/Hgunn97/express-pug-template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
