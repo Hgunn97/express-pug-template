@@ -1,12 +1,12 @@
 # express-pug-template
 Because everyone loves Pugs!
 
-#Installation
+# Installation
 ```bash
 npm install
 ```
 
-#Start
+# Start
 ```bash
 npm start
 ```
