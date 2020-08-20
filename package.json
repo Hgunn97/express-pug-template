@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Hgunn97/express-pug-template#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^2.0.4"
+    "lodash": "^4.17.20",
+    "pug": "^3.0.0"
   }
 }
